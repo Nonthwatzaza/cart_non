@@ -22,7 +22,7 @@ public class main {
         cart1.items[1] = toothpick;
         cart1.items[2] = ship;
         cart1.items[3] = MCD;
-        System.out.print(cart1.sumPrice());
-        System.out.print("THB");
+        System.out.println(cart1.sumPrice());
+        System.out.println("THB");
     }
 }
